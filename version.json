@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Bug fix release: Fixed app crash issue when updating profile. After installing, you will see version 1.0.1 on the login page.",
   "releaseDate": "2025-11-18"
 }
